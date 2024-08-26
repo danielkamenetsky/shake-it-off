@@ -22,6 +22,9 @@ function getRandomQuote() {
   return quotes[Math.floor(Math.random() * quotes.length)]
 }
 
+let clown = {name: 'Waffles', age: 75, hairColor: 'Rainbow'}
+
 export {
-  getRandomQuote
+  getRandomQuote,
+  clown
 }

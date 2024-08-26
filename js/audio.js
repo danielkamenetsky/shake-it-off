@@ -26,6 +26,6 @@ function playNoNiceThings() {
 export {
   playShakeItOff,
   playDarkNight,
-  playDarklight,
+  playDaylight,
   playNoNiceThings
 }
