@@ -41,3 +41,8 @@ button {
   border-radius: 8px;
   border: none;
 }
+
+#quote-button {
+  background-color: maroon;
+  color: whitesmoke;
+}
